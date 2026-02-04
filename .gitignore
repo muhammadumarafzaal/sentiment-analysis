@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+nltk_data/
+preprocessed_reviews.csv
+reviews.csv
+.env
+.vscode/
+history.json
+image.png
+sentiment_model_new.pkl
+tfidf_vectorizer_new.pkl
