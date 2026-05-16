@@ -94,11 +94,8 @@ sentiment-analysis/
 
 ## 👥 Contributors
 
-- **Umar Afzal** (23F-3106) - *Lead Developer*
-- Rana M Haseeb (23F-3096)
-- Taha Ahmad (23F-3040)
-- Mahad Bashir (23F-3011)
-- Abdul Wahab (23F-3043)
+- **Umar Afzal** (23F-3106) 
+
 
 ---
 
